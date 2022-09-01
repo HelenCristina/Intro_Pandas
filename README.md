@@ -1,2 +1,2 @@
 # Introdução ao Pandas
- Principais ferramentas do pandas 
+ Principais ferramentas do Pandas 
